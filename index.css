@@ -1,14 +1,21 @@
-body{
-    background-color:whitesmoke;
-}
-.box-part{
-    padding: 50px 10px;
-    margin:50px 10px ;
-    background-color:white;
-}
-.fa{
-    color: #4183d7;
-}
-a{
-    border-bottom: 1px solid blue;
-}
+ body{
+    background-color: white;
+ }
+ .box-part1{
+    background-color:darkgray;
+ }
+ .fa{
+    color:rgb(33, 25, 25);
+ }
+ .box{
+    padding: 30px 10px;
+
+ }
+ .box-part2{
+   background-color: rgb(118, 116, 120);
+   }
+
+ .selate{
+   background-color:gray
+ }
+ 
